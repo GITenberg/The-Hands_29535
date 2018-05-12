@@ -1,0 +1,33 @@
+_repo: The-Hands_29535
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Houlihan, Raymond F.
+    alias: Houlihan, Ray
+    birthdate: 1923
+    deathdate: 1991
+    gutenberg_agent_id: '33971'
+    url: http://www.gutenberg.org/2009/agents/33971
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sternbach, Richard A.
+    gutenberg_agent_id: '33970'
+    url: http://www.gutenberg.org/2009/agents/33970
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Hands
+url: http://www.gutenberg.org/ebooks/29535
