@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33970'
     url: http://www.gutenberg.org/2009/agents/33970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29535#The-Hands
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-07-29'
 gutenberg_type: Text
